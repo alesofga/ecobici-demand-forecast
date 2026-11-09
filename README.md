@@ -1,2 +1,3 @@
-# ecobici-demand-forecast
-El modelo y dashboard del reto de Ecobici
+Cómo correrlo localmente? 
+1. Requisitos: 
+    
